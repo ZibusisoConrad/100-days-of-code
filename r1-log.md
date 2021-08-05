@@ -25,6 +25,14 @@ The log of my #100DaysOfCode challenge. Started on [August 3, Tuesday, 2021].
 **Link(s) to work**:
 1. [fem-stat-preview-card](https://fem-stats-preview-card-delta.vercel.app/)
 
+### Day 3: August 5, 2021
+
+**Today's Progress**: no progress today just managed to break my project tring to make it reponsive kkkk
+
+**Thoughts**: i think i shuld re-organise my class and put more thought before any code. upside is i ddnt mess up the production version.
+
+**Link(s) to work**:
+1. [fem-stat-preview-card](https://fem-stats-preview-card-delta.vercel.app/)
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
