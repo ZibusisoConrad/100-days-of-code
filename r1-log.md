@@ -27,12 +27,24 @@ The log of my #100DaysOfCode challenge. Started on [August 3, Tuesday, 2021].
 
 ### Day 3: August 5, 2021
 
-**Today's Progress**: no progress today just managed to break my project tring to make it reponsive kkkk
+**Today's Progress**: no progress today just managed to break my project trying to make it reponsive kkkk
 
 **Thoughts**: i think i shuld re-organise my class and put more thought before any code. upside is i ddnt mess up the production version.
 
 **Link(s) to work**:
 1. [fem-stat-preview-card](https://fem-stats-preview-card-delta.vercel.app/)
+2. [github-link](https://github.com/ZibusisoConrad/fem-stats-preview-card)
+
+### Day 4: August 6, 2021
+
+**Today's Progress**: finished the preveiw card, edit the readme file for project.
+
+**Thoughts**: had to redo my css class a bit to make it less confusing to make the card responsive. learnt that i have to plan and this about layout before code. there is a lot of documentation that goes into frontend mentor projects.
+
+**Link(s) to work**:
+1. [fem-stat-preview-card](https://fem-stats-preview-card-delta.vercel.app/)
+2. [github-link](https://github.com/ZibusisoConrad/fem-stats-preview-card)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
