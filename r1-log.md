@@ -72,6 +72,16 @@ The log of my #100DaysOfCode challenge. Started on [August 3, Tuesday, 2021].
 **Link(s) to work**:
 1. [code-pen](https://codepen.io/zibusisoconrad/pen/MWmZNMB)
 
+### Day 9: August 11, 2021
+
+**Today's Progress**: refactor code, some documentation on my styles, final deployment 
+
+**Thoughts**: found out rem is best for scalability and px is best for micro sized lengths and letter-spacing. Em is better for @media queries. add some heavy commenting in css for people to able to follow css, M DONE WITH MY FIRST PROJECT HURRAY!!! 
+
+**Link(s) to work**:
+1. 1. [fem-stat-preview-card](https://www.frontendmentor.io/solutions/stats-preveiw-card-using-sass-uCHADz1WQ)
+2. [github-link](https://github.com/ZibusisoConrad/fem-stats-preview-card)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
