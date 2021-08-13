@@ -82,6 +82,14 @@ The log of my #100DaysOfCode challenge. Started on [August 3, Tuesday, 2021].
 1. 1. [fem-stat-preview-card](https://www.frontendmentor.io/solutions/stats-preveiw-card-using-sass-uCHADz1WQ)
 2. [github-link](https://github.com/ZibusisoConrad/fem-stats-preview-card)
 
+### Day 10: August 11, 2021
+
+**Today's Progress**: read other peoples code, fix media query last project, gave feedback on frontend mentor.
+
+**Thoughts**: reading other peoples code gave me a perspective i didn't have before and discover new ways to approach problems. it also gave me a least of things i need to look up and practice for my next challenge.
+
+**Link(s) to work**:
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
